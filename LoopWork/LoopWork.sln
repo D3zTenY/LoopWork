@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FFA2555A-68A6-6905-7509-79F46D81BF8B}") = "LoopWork", "Assembly-CSharp.csproj", "{89AAC084-2502-CAFB-23CE-75BBF51395D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89AAC084-2502-CAFB-23CE-75BBF51395D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AAC084-2502-CAFB-23CE-75BBF51395D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AAC084-2502-CAFB-23CE-75BBF51395D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AAC084-2502-CAFB-23CE-75BBF51395D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
